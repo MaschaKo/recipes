@@ -3,3 +3,6 @@
 - Avocado
 - Cilantro
 - Salt
+- Lime
+- Yellow Onion
+- Garlic 
